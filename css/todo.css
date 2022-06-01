@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+.height {
+    height: 100vh
+}
+
+.card {
+    width: 350px;
+    /* height: 370px */
+}
+
+.image {
+    position: absolute;
+    right: 12px;
+    top: 10px
+}
+
+.btn-danger {
+    height: 48px;
+    font-size: 18px
+}
