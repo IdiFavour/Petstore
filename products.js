@@ -4,7 +4,7 @@ let products = [
         "name": 'Men Jeans',
         "description": ' Large sized Men Jeans for all occasions',
         "price": 5000,
-        "image": "/images/product.png",
+        "image": "images/product.png",
         "stock": 5,
         "rating": 5
 
@@ -14,7 +14,7 @@ let products = [
         "name": 'Men Jeans',
         "description": ' Large sized Men Jeans for all occasions',
         "price": 4000,
-        "image": "/images/product.png",
+        "image": "images/product.png",
         "stock": 9,
         "rating": 3
 
@@ -24,7 +24,7 @@ let products = [
         "name": 'Men Jeans',
         "description": ' Large sized Men Jeans for all occasions',
         "price": 7000,
-        "image": "/images/product.png",
+        "image": "images/product.png",
         "stock": 11,
         "rating": 4
 
@@ -34,7 +34,7 @@ let products = [
         "name": 'Men Jeans',
         "description": ' Large sized Men Jeans for all occasions',
         "price": 2000,
-        "image": "/images/product.png",
+        "image": "images/product.png",
         "stock": 8,
         "rating": 3
 
@@ -44,7 +44,7 @@ let products = [
         "name": 'Men Jeans',
         "description": ' Large sized Men Jeans for all occasions',
         "price": 5000,
-        "image": "/images/product.png",
+        "image": "images/product.png",
         "stock": 10,
         "rating": 5
 
