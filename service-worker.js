@@ -4,6 +4,7 @@ var cacheFiles = [
     'products.js',
     'petstore.webmanifest',
     'images/product.png',
+    'service-worker.js',
     'images/icon-store-512.png',
     'images/bg.jpg',
     'css/todo.css'
